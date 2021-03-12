@@ -2,13 +2,13 @@
 
 ### Global 🌐
 
-- `font size`: `18px`
-- `tab size`: `2`
-- `default formatter`: `prettier`
-- `cursor blinking`: `expand`
-- `cursor width`: `3`
-- `format on save`: `true`
-- `prettier print width`: `110`
+- font size: `18px`
+- tab size: `2`
+- default formatter: `prettier`
+- cursor blinking: `expand`
+- cursor width: `3`
+- format on save: `true`
+- prettier print width: `110`
 
 ### Theme 🖌️
 
